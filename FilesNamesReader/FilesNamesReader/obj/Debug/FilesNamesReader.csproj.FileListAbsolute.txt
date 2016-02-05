@@ -1,0 +1,6 @@
+C:\Code\FilesNamesReader\FilesNamesReader\FilesNamesReader\bin\Debug\FilesNamesReader.exe.config
+C:\Code\FilesNamesReader\FilesNamesReader\FilesNamesReader\bin\Debug\FilesNamesReader.exe
+C:\Code\FilesNamesReader\FilesNamesReader\FilesNamesReader\bin\Debug\FilesNamesReader.pdb
+C:\Code\FilesNamesReader\FilesNamesReader\FilesNamesReader\obj\Debug\FilesNamesReader.csprojResolveAssemblyReference.cache
+C:\Code\FilesNamesReader\FilesNamesReader\FilesNamesReader\obj\Debug\FilesNamesReader.exe
+C:\Code\FilesNamesReader\FilesNamesReader\FilesNamesReader\obj\Debug\FilesNamesReader.pdb

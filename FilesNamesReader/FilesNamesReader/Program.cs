@@ -10,6 +10,12 @@ namespace FilesNamesReader
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello!Please enter path to folder");
+            string sName = Console.ReadLine();
+            Console.WriteLine("Your path to folder ," + sName);
+
+
+            Console.ReadKey();
         }
     }
 }
